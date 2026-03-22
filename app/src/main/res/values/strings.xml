@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikacija s postavkama</string>
+    <string name="title_activity_settings">Postavke</string>
+    <string name="pref_slika_spava">Slika smajlića koji spava</string>
+    <string name="pref_description_slika_spava">Informacija o slici koja se inicijalno pokazuje</string>
+    <string name="pref_title_naslov_aktivnosti">Naslov aktivnosti</string>
+    <string name="pref_default_naslov_aktivnosti">Aplikacija s postavkama</string>
+    <string name="pref_title_lista_boja">Boje pozadine</string>
+    <string name="i1_prva_stavka">Postavke</string>
+    <string name="i1_druga_stavka_izbornika">Druga aktivnost</string>
+    <string name="smiley">Spavač</string>
+    <string name="button">Spremi postavke aktivnosti</string>
+    <string name="button2">Spremi u imenovano spremište</string>
+</resources>

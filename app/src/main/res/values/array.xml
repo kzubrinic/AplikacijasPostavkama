@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- color names array -->
+    <string-array name="pref_lista_boja">
+        <item>Bijela</item>
+        <item>Modra</item>
+        <item>Modro-zelena</item>
+        <item>Bež</item>
+        <item>Svila</item>
+        <item>Slonovača</item>
+    </string-array>
+
+    <!-- color values array -->
+    <string-array name="pref_idx_lista_boja">
+        <item>#FFFFFF</item>
+        <item>#00FFFF</item>
+        <item>#F0FFFF</item>
+        <item>#F5F5DC</item>
+        <item>#FFF8DC</item>
+        <item>#FFFFF0</item>
+    </string-array>
+</resources>
